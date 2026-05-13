@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia de Software | Entusiasta de Tecnologia
 
-Sou natural de Brasília/DF e atualmente estou cursando **Engenharia de Software** no CEUB. Tenho uma conexão de longa data com o mundo da computação, desde pequeno desmontando - e montando máquinas para entender como funcionamavam - e agora estou transformando essa paixão em minha carreira profissional.
+Sou natural de Brasília/DF e atualmente estou cursando **Engenharia de Software** no CEUB. Tenho uma conexão de longa data com o mundo da computação, desde pequeno estive desmontando e montando máquinas para entender como funcionamavam e agora estou transformando essa paixão em minha carreira profissional.
 
 ---
 
@@ -10,7 +10,7 @@ Sou natural de Brasília/DF e atualmente estou cursando **Engenharia de Software
 
 - 🎓 Focado em absorver o máximo de conhecimento acadêmico para me tornar um Engenheiro de Software de excelência.
 - 🎯 Meu principal interesse técnico é o desenvolvimento **Back-end**, com foco especial na linguagem **Java**.
-- 🚀 Tenho a ambição de evoluir constantemente e conquistar minha primeira vaga como desenvolvedor Júnior.
+- 🚀 Tenho a ambição de evoluir constantemente e conquistar minha primeira vaga como desenvolvedor.
 - 🌍 Estudando Inglês com o objetivo de alcançar a fluência para futuras oportunidades globais e atuação em projetos internacionais.
 
 ### 🛠️ Habilidades e Aprendizados
