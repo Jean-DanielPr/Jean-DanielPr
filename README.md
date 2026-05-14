@@ -2,8 +2,6 @@
 
 ### Estudante de Engenharia de Software | Entusiasta de Tecnologia
 
-Sou natural de Brasília/DF e atualmente estou cursando **Engenharia de Software** no CEUB. Tenho uma conexão de longa data com o mundo da computação, desde pequeno estive desmontando e montando máquinas para entender como funcionamavam e agora estou transformando essa paixão em minha carreira profissional.
-
 ---
 
 ### 💻 Sobre Mim
