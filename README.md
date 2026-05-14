@@ -14,7 +14,7 @@
 ### 🛠️ Habilidades e Aprendizados
 
 - **Linguagens:** Consolidando lógica de programação com C e iniciando estudos em Java.
-- **Banco de Dados:** MySQL.
+- **Banco de Dados:** MySQL Workbench Modelo Lógico.
 - **Sistemas Operacionais:** Interesse em dominar o ambiente Linux.
 - **Ferramentas:** Versionamento de código com Git e GitHub.
 - **Soft Skills:** Comunicação assertiva, organização, foco em entrega de qualidade e colaboração em equipe.
