@@ -12,6 +12,14 @@
 
 ### 🛠️ Habilidades e Aprendizados
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL logo" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux logo" style="margin: 0 15px;" />
+</div>
+<br>
+
 - **Linguagens:** Consolidando lógica de programação com C e iniciando estudos em Java.
 - **Banco de Dados:** MySQL Workbench Modelo Lógico.
 - **Sistemas Operacionais:** Ja utilizo o ambiente Linux.
