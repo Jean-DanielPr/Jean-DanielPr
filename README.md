@@ -23,14 +23,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java logo" style="margin: 0 30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL logo" style="margin: 0 30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux logo" style="margin: 0 30px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" alt="GitHub logo" style="margin: 0 30px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Git_logo.svg" height="50" alt="Git logo" style="margin: 0 30px;" />
 </div>
 <br>
 
 - **Linguagens:** Consolidando lógica de programação com C e iniciando estudos em Java.
-- **Banco de Dados:** MySQL Workbench Modelo Lógico.
-- **Sistemas Operacionais:** Ja utilizo o ambiente Linux.
+- **Banco de Dados:** MySQL.
+- **Sistemas Operacionais:** Windows & Linux.
 - **Ferramentas:** Versionamento de código com Git e GitHub.
-- **Soft Skills:** Comunicação assertiva, organização, foco em entrega de qualidade e colaboração em equipe.
 
 ### 📈 Meus Objetivos Atuais
 
