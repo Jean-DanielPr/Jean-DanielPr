@@ -10,6 +10,12 @@
 - 🎯 Meu principal interesse técnico é o desenvolvimento **Back-end**, com foco especial na linguagem **Java**.
 - 🚀 Tenho a ambição de evoluir constantemente e conquistar minha primeira vaga como desenvolvedor.
 
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-daniel-064889331)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeandaniel.contato@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jean.daniel_/)
+
 ### 🛠️ Habilidades e Aprendizados
 
 <div align="center">
@@ -32,13 +38,6 @@
 - [ ] Ganhar proficiência no uso e administração de sistemas Linux.
 - [ ] Estudar e alcançar a fluência no idioma Inglês.
 - [ ] Ingressar no mercado de tecnologia (foco em posições de desenvolvedor Júnior).
-
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-daniel-064889331)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeandaniel.contato@gmail.com)
 
 ---
 *"A ambição e o interesse em aprender são os fatores que separam quem fica estagnado de quem está sempre evoluindo."*
