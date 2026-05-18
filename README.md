@@ -35,7 +35,7 @@
 
 ### 📈 Meus Objetivos Atuais
 
-- [ ] Dominar a lógica de programação e aprofundar os estudos em Java.
+- [ ] Dominar a lógica de programação e iniciar os estudos em orientação a objetos em Java.
 - [ ] Ganhar proficiência no uso e administração de sistemas Linux.
 - [ ] Estudar e alcançar a fluência no idioma Inglês.
 - [ ] Ingressar no mercado de tecnologia (foco em posições de desenvolvedor Júnior).
