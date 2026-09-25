@@ -28,14 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" style="margin: 0 30px;" />
 </div>
 
-- **Linguagens:** Consolidando lógica de programação com C e iniciando estudos em Java.
+- **Linguagens:** Rumo ao estudo do Spring Boot. HTML, CSS.
 - **Banco de Dados:** MySQL.
 - **Sistemas Operacionais:** Windows & Linux.
 - **Ferramentas:** Versionamento de código com Git e GitHub.
 
 ### 📈 Meus Objetivos Atuais
 
-- [ ] Dominar a lógica de programação e iniciar os estudos em orientação a objetos em Java.
+- [**--**] Dominar a lógica de programação e iniciar os estudos em orientação a objetos em Java.
 - [ ] Ganhar proficiência no uso e administração de sistemas Linux.
 - [ ] Estudar e alcançar a fluência no idioma Inglês.
 - [ ] Ingressar no mercado de tecnologia (foco em posições de desenvolvedor Júnior).
